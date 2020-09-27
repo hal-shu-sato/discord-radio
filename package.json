@@ -1,0 +1,26 @@
+{
+  "name": "discord-radio",
+  "version": "1.0.0",
+  "description": "Discord Radio for Everyone",
+  "main": "index.js",
+  "repository": "https://github.com/hal-shu-sato/discord-radio.git",
+  "author": "ato lash",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "log4js": "^6.3.0",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
