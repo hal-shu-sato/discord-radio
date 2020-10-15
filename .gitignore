@@ -103,9 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# Heroku config file
-Procfile
-
 # VSCode config file
 .vscode/
 
