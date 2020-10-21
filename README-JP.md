@@ -38,14 +38,14 @@ Yarnを使用している場合、「start.bat」を起動してください。
 ## ターミナル (Yarn)
 
 ```bash
-cd time-signal-discord-bot
+cd discord-radio
 yarn run start
 ```
 
 ## ターミナル (NPM)
 
 ```bash
-cd time-signal-discord-bot
+cd discord-radio
 npm run start
 ```
 
@@ -63,7 +63,7 @@ MacとLinuxの環境下ではテストをしていません。
 
 # 謝辞
 
-時報の音声ファイルは、[OtoLogic](https://otologic.jp)様のものを使用させていただいております。 ([CC BY 4.0](https://github.com/hal-shu-sato/time-signal-discord-bot/blob/master/audio/LICENSE))
+時報の音声ファイルは、[OtoLogic](https://otologic.jp)様のものを使用させていただいております。 ([CC BY 4.0](https://github.com/hal-shu-sato/discord-radio/blob/master/time_signal/LICENSE))
 
 # ライセンス
 

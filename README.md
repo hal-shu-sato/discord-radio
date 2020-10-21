@@ -38,14 +38,14 @@ If you use yarn, run "start.bat"
 ## Bash (Yarn)
 
 ```bash
-cd time-signal-discord-bot
+cd discord-radio
 yarn run start
 ```
 
 ## Bash (NPM)
 
 ```bash
-cd time-signal-discord-bot
+cd discord-radio
 npm run start
 ```
 
@@ -63,7 +63,7 @@ This project's concept is [here](https://gist.github.com/hal-shu-sato/f1b53fe7fe
 
 # Credit
 
-The audio notification uses sound file from [OtoLogic](https://otologic.jp). ([CC BY 4.0](https://github.com/hal-shu-sato/time-signal-discord-bot/blob/master/audio/LICENSE))
+The audio notification uses sound file from [OtoLogic](https://otologic.jp). ([CC BY 4.0](https://github.com/hal-shu-sato/discord-radio/blob/master/time_signal/LICENSE))
 
 # License
 
